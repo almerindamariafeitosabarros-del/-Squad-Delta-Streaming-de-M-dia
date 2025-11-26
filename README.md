@@ -1,7 +1,6 @@
 # 🎬 Squad Delta — Streaming de Mídia
 
 ## 👥 Integrantes
-Lista em ordem alfabética:
 
 - **Almerinda Barros**
 - **Getúlio José**
@@ -13,3 +12,4 @@ Lista em ordem alfabética:
 ---
 
 🚀 *Squad Delta — Engenharia de Computação com IA*
+
